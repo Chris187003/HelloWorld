@@ -5,7 +5,7 @@ class HelloWorld {
     }
 
     sayHello() {
-        console.log('Hello World!' + ' My name is ' + this.firstName + ' ' + this.lastName);
+        console.log('Hello World!' + ' My name is ' + this.firstName + ' ' + this.lastName + '.');
     }
 } 
 
